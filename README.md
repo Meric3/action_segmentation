@@ -1,5 +1,7 @@
 # CEAT: Curvature feature Extractor using Action based Triplet learning for Action Segmentation
 
+/workspace/_action_seg/workspace/action_segmentation
+
 <p align="left"><img width="99%" src="./assests/teaser.png"/></p>
 
 This repository provides the official PyTorch implementation of the following paper:
